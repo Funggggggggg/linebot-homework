@@ -1,0 +1,4 @@
+node_modules
+.env
+dump/*.json 
+# dump 用在 debug 所以要建一空白 gitkeep 使上傳不被忽略
